@@ -1,0 +1,5 @@
+[package]
+
+name = "digest"
+version = "0.0.1"
+authors = ["Alexei Sholik <alcosholik@gmail.com>"]
